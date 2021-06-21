@@ -1,2 +1,2 @@
 # Process-Creation
-Simulate process creation and destruction when implemented with adynamicarray
+Simulates a process creation and destruction when implemented with a dynamic array.
